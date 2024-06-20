@@ -17,7 +17,7 @@
 
 # 앱 개발
 
-![앱](https://github.com/jihyuk02/vehicle-warning-system/blob/main/images/%EC%95%B1.jpg)
+<img src="https://github.com/jihyuk02/vehicle-warning-system/blob/main/images/%EC%95%B1.jpg" width="200" height="400"/>
 
 - 소리 분류 모델을 탑재한 앱을 개발했다. 시작 버튼을 누르면 실시간으로 외부의 소리를 녹음하게 되고, 4초마다 4초 길이의 소리를 캡처한다. 캡처한 소리를 전처리하고 분류 모델에 입력하여 결과를 예측한 다음 차량 소리가 인식되면 사용자의 이어폰에 경고음을 출력하여 차량이 접근중임을 인식할 수 있도록 구현했다.
 
