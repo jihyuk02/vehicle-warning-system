@@ -26,6 +26,6 @@
 
 https://youtube.com/shorts/aFl-wd_UsIs?feature=share
 
-3. 차량이나 건물에 의해 시야 확보가 어려운 상황
+2. 차량이나 건물에 의해 시야 확보가 어려운 상황
 
 https://youtube.com/shorts/GSJEQrGYmlI?feature=share
