@@ -8,3 +8,10 @@
 - 도로교통공단에서 노이즈 캔슬링의 유무에 따른 차량 소리 인식 거리를 측정하는 실험을 진행한 결과, 노이즈 캔슬링을 사용하지 않으면 약 8.7m의 거리에서 차를 인식하고 사용하면 0.8m의 매우 근접한 거리에서 인식하는 것을 확인할 수 있었다.
 
 # 소리 분류 모델 개발
+
+# 시연 영상
+1. 차량이 보행자의 후방에서 접근 중인 상황
+https://youtube.com/shorts/aFl-wd_UsIs?feature=share
+
+2. 차량이나 건물에 의해 시야 확보가 어려운 상황
+https://youtube.com/shorts/GSJEQrGYmlI?feature=share
